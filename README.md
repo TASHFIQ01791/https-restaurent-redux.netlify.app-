@@ -22,31 +22,34 @@ Built with **React**, **Redux Toolkit**, and **Tailwind CSS** for modern UI and 
 ---
 
 ## 📂 Project Structure
+
+```plaintext
 src/
 │
 ├── api/
-│ └── fetchMeals.js # API calls using Redux middleware
+│   └── fetchMeals.js          # API calls using Redux middleware
 │
 ├── components/
-│ ├── Navbar.jsx # Navigation bar with search & bookmarks link
-│ ├── Hero.jsx # Hero banner with call to action
-│ ├── CategorySection.jsx # Display meals by category with Load More
-│ ├── MealCard.jsx # Single meal card component
-│ ├── FilterPanel.jsx # Category filter UI
-│ ├── BookmarksPage.jsx # Page to view bookmarked meals
-│ ├── Loader.jsx # Loading spinner component
-│ └── Error.jsx # Error display component
+│   ├── Navbar.jsx             # Navigation bar with search & bookmarks link
+│   ├── Hero.jsx               # Hero banner with call to action
+│   ├── CategorySection.jsx    # Display meals by category with Load More
+│   ├── MealCard.jsx           # Single meal card component
+│   ├── FilterPanel.jsx        # Category filter UI
+│   ├── BookmarksPage.jsx      # Page to view bookmarked meals
+│   ├── Loader.jsx             # Loading spinner component
+│   └── Error.jsx              # Error display component
 │
 ├── features/
-│ └── mealsSlice.js # Redux Toolkit slice & async thunks
+│   └── mealsSlice.js          # Redux Toolkit slice & async thunks
 │
 ├── pages/
-│ ├── HomePage.jsx # Home page with hero, filter, categories
-│ └── BookmarksPage.jsx # Bookmarked meals page
+│   ├── HomePage.jsx           # Home page with hero, filter, categories
+│   └── BookmarksPage.jsx      # Bookmarked meals page
 │
-├── App.jsx # Main app with routes
-├── main.jsx # React app entry point
-└── index.css # Tailwind CSS import & global styles
+├── App.jsx                    # Main app with routes
+├── main.jsx                   # React app entry point
+└── index.css                  # Tailwind CSS import & global styles
+
 
 
 ---
