@@ -3,7 +3,7 @@
 A responsive React application to **explore, search, and discover meals** using the free [MealDB API](https://www.themealdb.com/api.php).  
 Built with **React**, **Redux Toolkit**, and **Tailwind CSS** for modern UI and state management.
 
-🚀 **Live Demo**: [*(Add your live demo URL here)*  ](https://restaurent-redux.netlify.app/)
+🚀 **Live Demo**: [*(live link)*  ](https://restaurent-redux.netlify.app/)
 📁 **API Used**: [MealDB API](https://www.themealdb.com/api.php)
 
 ---
@@ -59,19 +59,20 @@ src/
 ## 📸 Screenshots
 
 > 🏠 Home Page  
-![Home](./public/home_ss.png)
+![Home](./screenshots/home_ss.png)
 
 > 📂 Category Section  
-![Category](./public/category_ss.png)
+![Category](./screenshots/category_ss.png)
 
 > ⭐ Bookmarks Page  
-![Bookmarks](./public/bookmark_ss.png)
+![Bookmarks](./screenshots/bookmark_ss.png)
 
 > 📄 Meal Details Page  
-![Details](./public/details_ss.png)
+![Details](./screenshots/details_ss.png)
 
 > 🔎 Search Results  
-![Search](./public/search_ss.png)
+![Search](./screenshots/search_ss.png)
+
 
 ---
 
