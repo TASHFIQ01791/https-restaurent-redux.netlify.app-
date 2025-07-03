@@ -56,23 +56,6 @@ src/
 
 ---
 
-## 📸 Screenshots
-
-> 🏠 Home Page  
-![Home](./screenshots/home_ss.png)
-
-> 📂 Category Section  
-![Category](./screenshots/category_ss.png)
-
-> ⭐ Bookmarks Page  
-![Bookmarks](./screenshots/bookmark_ss.png)
-
-> 📄 Meal Details Page  
-![Details](./screenshots/details_ss.png)
-
-> 🔎 Search Results  
-![Search](./screenshots/search_ss.png)
-
 
 ---
 
